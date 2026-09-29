@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    tela inicial
+    <a href="form_postagem.php">Fazer nova postagem</a>
 </body>
 </html>
