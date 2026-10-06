@@ -26,7 +26,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Maria Eduarda Cardoso do Nascimento
 - Matheus de Oliveira Paiva
 - Monique Almeida Alves
-- Pedro Felipe Rosa dos Santos
+- Pedro Felipe Rosa dos Santos [@PedrooSad23](https://github.com/PedrooSad23)
 - Pedro Henrique Pereira de Lima Cordeiro
 - Priscylla Souza da Silva
 - Rafaella Batista dos Santos
