@@ -11,7 +11,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Bianca Ribeiro Pires
 - Caio Vinícius Rolins de Oliveira
 - Diully Silva de Carvalho
-- Gabryel Vieira Passos
+- Gabryel Vieira Passos [@Vieiraxz](https://github.com/Vieiraxz)
 - Giulia Luiza Rufino Moraes Vieira
 - Guilherme Antonio Oliveira Silva
 - Isabella Moreira Marçal
