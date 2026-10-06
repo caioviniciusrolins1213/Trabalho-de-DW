@@ -20,7 +20,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Kauan Fillipe da Silva Rodrigues
 - Lara Rayane Cruz Ferreira
 - Luana de Morais Silva
-- Luís Gustavo Arriel de Melo
+- Luís Gustavo Arriel de Melo [@luisarriel](https://github.com/luisarriel)
 - Luiz Eduardo Bezerra de Jesus
 - Maria Clara de Sousa Rosa
 - Maria Eduarda Cardoso do Nascimento
