@@ -22,7 +22,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Luana de Morais Silva
 - Luís Gustavo Arriel de Melo
 - Luiz Eduardo Bezerra de Jesus
-- Maria Clara de Sousa Rosa
+- Maria Clara de Sousa Rosa [@mariaclr1](https://github.com/mariaclr1)
 - Maria Eduarda Cardoso do Nascimento
 - Matheus de Oliveira Paiva
 - Monique Almeida Alves
