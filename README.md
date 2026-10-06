@@ -14,11 +14,11 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Gabryel Vieira Passos [@Vieiraxz](https://github.com/Vieiraxz)
 - Giulia Luiza Rufino Moraes Vieira
 - Guilherme Antonio Oliveira Silva
-- Isabella Moreira Marçal [@isamoreira988] (http://github.com/isamoreira988)
+- Isabella Moreira Marçal
 - Jair Souza Viana
 - João Pedro Silva Cruz
 - Kauan Fillipe da Silva Rodrigues
-- Lara Rayane Cruz Ferreira [@lara-19] (https://github.com/lara-19)
+- Lara Rayane Cruz Ferreira
 - Luana de Morais Silva
 - Luís Gustavo Arriel de Melo [@luisarriel](https://github.com/luisarriel)
 - Luiz Eduardo Bezerra de Jesus
