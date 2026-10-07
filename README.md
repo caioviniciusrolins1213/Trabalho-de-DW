@@ -10,7 +10,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Anna Beatriz de Sousa Silva
 - Bianca Ribeiro Pires
 - Caio Vinícius Rolins de Oliveira[@caioviniciusrolins1213](https://github.com/caioviniciusrolins1213)
-- Diully Silva de Carvalho
+- Diully Silva de Carvalho [@DiullyCarvalho](https://github.com/DiullyCarvalho)
 - Gabryel Vieira Passos [@Vieiraxz](https://github.com/Vieiraxz)
 - Giulia Luiza Rufino Moraes Vieira
 - Guilherme Antonio Oliveira Silva
