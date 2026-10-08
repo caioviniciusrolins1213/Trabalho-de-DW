@@ -1,0 +1,53 @@
+//insert de usuarios
+
+INSERT INTO usuario (username, nome, email, senha, foto)  VALUES
+('joao.silva', 'João Silva', 'joao.silva@email.com', 'senha123', 'joao.jpg'),
+('maria.santos', 'Maria Santos', 'maria.santos@email.com', 'senha456', 'maria.jpg'),
+('carlos.oliveira', 'Carlos Oliveira', 'carlos.oliveira@email.com', 'senha789', 'carlos.jpg'),
+('ana.costa', 'Ana Costa', 'ana.costa@email.com', 'ana123', 'ana.jpg'),
+('pedro.almeida', 'Pedro Almeida', 'pedro.almeida@email.com', 'pedro123', 'pedro.jpg'),
+('juliana.rocha', 'Juliana Rocha', 'juliana.rocha@email.com', 'juli123', 'juliana.jpg'),
+('lucas.martins', 'Lucas Martins', 'lucas.martins@email.com', 'lucas123', 'lucas.jpg'),
+('beatriz.lima', 'Beatriz Lima', 'beatriz.lima@email.com', 'bia123', 'beatriz.jpg'),
+('rafael.gomes', 'Rafael Gomes', 'rafael.gomes@email.com', 'rafa123', 'rafael.jpg'),
+('fernanda.ferreira', 'Fernanda Ferreira', 'fernanda.ferreira@email.com', 'fer123', 'fernanda.jpg'),
+('gabriel.barros', 'Gabriel Barros', 'gabriel.barros@email.com', 'gabriel123', 'gabriel.jpg'),
+('camila.mendes', 'Camila Mendes', 'camila.mendes@email.com', 'camila123', 'camila.jpg'),
+('bruno.nunes', 'Bruno Nunes', 'bruno.nunes@email.com', 'bruno123', 'bruno.jpg'),
+('larissa.teixeira', 'Larissa Teixeira', 'larissa.teixeira@email.com', 'larissa123', 'larissa.jpg'),
+('thiago.ribeiro', 'Thiago Ribeiro', 'thiago.ribeiro@email.com', 'thiago123', 'thiago.jpg');
+
+
+//inser de postagem
+
+INSERT INTO postagem (texto, data_hora, idusuario) VALUES
+('Hoje foi um dia incrível! Aprendi muitas coisas novas.', '2026-10-01 08:30:00', 7),
+('Começando mais um projeto. Vamos ver no que vai dar!', '2026-10-01 10:15:00', 3),
+('Alguém mais está ansioso para o final de semana?', '2026-10-01 12:45:00', 12),
+('Estudar programação todos os dias está começando a dar resultado.', '2026-10-01 14:20:00', 5),
+('Que dia bonito para sair e aproveitar com os amigos.', '2026-10-01 16:10:00', 9),
+('Finalmente consegui resolver aquele bug que estava me incomodando.', '2026-10-02 08:05:00', 3),
+('Café, música e programação. Combinação perfeita!', '2026-10-02 09:40:00', 14),
+('Hoje eu descobri uma coisa muito interessante sobre tecnologia.', '2026-10-02 11:25:00', 1),
+('Nada melhor do que terminar o dia com uma boa série.', '2026-10-02 19:30:00', 8),
+('Estou aprendendo bastante com esse novo projeto.', '2026-10-03 07:50:00', 15),
+('Sextou! Hora de descansar um pouco.', '2026-10-03 18:00:00', 6),
+('Alguém tem alguma recomendação de filme para assistir?', '2026-10-03 20:15:00', 11),
+('Mais um objetivo alcançado! Muito feliz com o resultado.', '2026-10-04 09:10:00', 4),
+('Domingo tranquilo e aproveitando para colocar as coisas em ordem.', '2026-10-04 11:35:00', 10),
+('Estou pensando em começar a estudar uma nova linguagem.', '2026-10-04 15:20:00', 2),
+('Hoje o dia foi corrido, mas consegui terminar tudo que precisava.', '2026-10-05 17:45:00', 7),
+('Programar pode ser difícil, mas quando funciona é uma satisfação enorme.', '2026-10-05 19:10:00', 13),
+('Mais uma semana começando. Hora de correr atrás dos objetivos!', '2026-10-06 08:00:00', 5),
+('Estou gostando bastante de aprender coisas novas todos os dias.', '2026-10-06 10:30:00', 12),
+('Hoje foi um ótimo dia para compartilhar boas ideias.', '2026-10-06 13:15:00', 9),
+('Terminei uma tarefa que estava pendente há alguns dias.', '2026-10-06 16:40:00', 3),
+('Que satisfação quando o código finalmente funciona!', '2026-10-07 09:25:00', 14),
+('Hoje resolvi tirar um tempo para descansar.', '2026-10-07 12:00:00', 1),
+('Estou cada vez mais interessado em desenvolvimento de sistemas.', '2026-10-07 15:35:00', 8),
+('Mais um dia produtivo chegando ao fim.', '2026-10-07 18:50:00', 6),
+('Amanhã vou começar um novo desafio.', '2026-10-08 07:30:00', 15),
+('Nada melhor do que aprender algo novo pela manhã.', '2026-10-08 09:45:00', 4),
+('Hoje estou muito motivado para continuar estudando.', '2026-10-08 11:20:00', 10),
+('Compartilhando mais uma conquista com vocês!', '2026-10-08 14:05:00', 2),
+('Finalizando o dia com sensação de dever cumprido.', '2026-10-08 17:30:00', 13);
