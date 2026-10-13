@@ -1,4 +1,6 @@
-
+ body{
+        background-color: #ffffff;
+ }
 .i1 {
     width: 1500px;
     height: 895px;
@@ -20,15 +22,17 @@
             margin: auto;
             text-align: center;
             font-size: 50px;
-            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
             background-color: #5ba2ff;
             color:rgb(255, 255, 255)
+
     }
 
 
     div {
             border-style: solid;
-            border-color: rgb(255, 255, 255);
+            border-color: #f7b35a;
+            border-radius: 30px;
     }
 
     .postagens {
@@ -39,8 +43,9 @@
     }
 
     .postagem {
-            border-color: #e0b667;
+            border-color: #f7b35a;
             padding: 35px;
             margin: 20px;
             background-color: #ffffff;
+            border-radius: 30px;
         }
