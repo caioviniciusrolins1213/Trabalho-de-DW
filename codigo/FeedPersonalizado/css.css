@@ -1,14 +1,22 @@
-.i1 {
-    width: 1500px;
-    height: 895px;
+      
+    .l1 {
+            margin: auto;
+            text-align: center;
+            font-size: 50px;
     }
 
-#i2 {
-    width: 500px;
-    height: 395px;
+
+    div {
+            border-style: solid;
     }
-        
-#i3 {
-    width: 790px;
-    height: 295px;
+
+    .postagens {
+            border-color: blue;
+            padding: 10px;
+    }
+
+    .postagem {
+            border-color: red;
+            padding: 10px;
+            margin: 10px;
     }
