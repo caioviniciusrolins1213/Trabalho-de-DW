@@ -24,7 +24,7 @@
 </head>
 
 <body>
-    <h2>Lista de postagem</h2>
+    <h2>For you</h2>
 
     <div class="postagens">
         <?php
