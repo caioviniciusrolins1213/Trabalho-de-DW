@@ -63,7 +63,7 @@
             $comentarios = mysqli_query($conexao, $sql2);
             $quantidade_comentario = mysqli_num_rows($comentarios);
             if ($quantidade_comentario == 0) {
-                echo "Seja o primeiro a comentar...";
+                echo "Não tem comentarios";
             } else {
                 while ($comentario = mysqli_fetch_array($comentarios)) {
                     $idcomentario = $comentario['idcomentario'];
@@ -82,8 +82,7 @@
             }
         ?>
             <br>
-            <input type="text">
-            <input type="submit" value="Comentar">
+
         <?php
             echo "</div>";
 

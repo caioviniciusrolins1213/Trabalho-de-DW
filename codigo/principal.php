@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="form_postagem.php">Fazer nova postagem</a>
+    <a href="form_postagem.php">Fazer nova postagem</a> <br>
+    <a href="FeedPersonalizado/feed.php">Ver as postagens</a>
 </body>
 </html>
