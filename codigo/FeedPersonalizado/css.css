@@ -24,15 +24,16 @@
 
     div {
             border-style: solid;
+            border-color: #cbb3ff;
     }
 
     .postagens {
-            border-color: blue;
+            border-color: #071233;
             padding: 10px;
     }
 
     .postagem {
-            border-color: red;
+            border-color: #182e70;
             padding: 10px;
             margin: 10px;
         }
