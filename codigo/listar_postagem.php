@@ -21,6 +21,7 @@
             margin: 10px;
         }
     </style>
+    <link rel="stylesheet" href="css.css">
 </head>
 
 <body>
