@@ -1,1 +1,9 @@
-
+COR: roxo = #cbb3ff
+     azul = #182e70
+     azul escuro = #071233
+SOMBRA: <div class="shadow-xl shadow-primary p-4 bg-body rounded-7">
+  Parent with .shadow-primary
+  <div class="shadow-xl p-3 mt-3 bg-body rounded-3">
+    Nested .shadow-xl keeps the default color.
+  </div>
+</div>
