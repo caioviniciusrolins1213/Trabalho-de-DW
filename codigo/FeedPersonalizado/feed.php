@@ -18,7 +18,7 @@ $idusuario =  $_SESSION['idusuario'];
 
 <body>
 
-    <div class="l1"><h1>For You</h1></div>
+    <div class="l1"><h1>Para Você</h1></div>
 
     <div class="postagens">
         <?php

@@ -20,21 +20,27 @@
             margin: auto;
             text-align: center;
             font-size: 50px;
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-color: #5ba2ff;
+            color:rgb(255, 255, 255)
     }
 
 
     div {
             border-style: solid;
-            border-color: #cbb3ff;
+            border-color: rgb(255, 255, 255);
     }
 
     .postagens {
-            border-color: #071233;
+            border-color: #e0b667;
             padding: 10px;
+             background-color: #cde9ff;
+           
     }
 
     .postagem {
-            border-color: #182e70;
-            padding: 10px;
-            margin: 10px;
+            border-color: #e0b667;
+            padding: 35px;
+            margin: 20px;
+            background-color: #ffffff;
         }
