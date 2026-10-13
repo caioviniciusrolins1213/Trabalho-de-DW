@@ -6,6 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+
+        
+        .l1 {
+            margin: auto;
+            text-align: center;
+            font-size: 50px;
+        }
+
+
         div {
             border-style: solid;
         }
@@ -25,8 +34,9 @@
 </head>
 
 <body>
-    <h2>For you</h2>
 
+    <div class="l1"><h1>Lista de postagem</h1></div>
+    
     <div class="postagens">
         <?php
         require_once "conexao.php";
