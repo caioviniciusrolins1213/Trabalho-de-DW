@@ -1,4 +1,4 @@
-//insert de usuarios
+
 
 INSERT INTO usuario (username, nome, email, senha, foto)  VALUES
 ('joao.silva', 'João Silva', 'joao.silva@email.com', 'senha123', 'joao.jpg'),
@@ -18,7 +18,7 @@ INSERT INTO usuario (username, nome, email, senha, foto)  VALUES
 ('thiago.ribeiro', 'Thiago Ribeiro', 'thiago.ribeiro@email.com', 'thiago123', 'thiago.jpg');
 
 
-//inser de postagem
+
 
 INSERT INTO postagem (texto, idusuario) VALUES
 ('Hoje foi um dia incrível! Aprendi muitas coisas novas.', 7),
@@ -52,7 +52,7 @@ INSERT INTO postagem (texto, idusuario) VALUES
 ('Compartilhando mais uma conquista com vocês!', 2),
 ('Finalizando o dia com sensação de dever cumprido.', 13);
 
-//inserts dos comentarios 
+
 
 INSERT INTO comentario (idusuario, idpostagem, texto) VALUES
 (7, 12, 'Muito interessante essa postagem!'),
@@ -151,7 +151,35 @@ INSERT INTO seguir (idseguidor, idseguindo) VALUES
 
 (10, 3),
 (10, 8),
+0, 8),
 
+(11, 14),
+(11, 1),
+(11, 6),
+(11, 9),
+(11, 15),
+
+(12, 5),
+(12, 2),
+(12, 10),
+(12, 14),
+
+(13, 7),
+(13, 1),
+(13, 4),
+(13, 11),
+(13, 15),
+(13, 8),
+
+(14, 3),
+(14, 5),
+(14, 9),
+
+(15, 2),
+(15, 6),
+(15, 10),
+(15, 12),
+(15, 4);
 (11, 14),
 (11, 1),
 (11, 6),
