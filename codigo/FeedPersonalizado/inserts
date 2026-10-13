@@ -151,7 +151,7 @@ INSERT INTO seguir (idseguidor, idseguindo) VALUES
 
 (10, 3),
 (10, 8),
-0, 8),
+(0, 8),
 
 (11, 14),
 (11, 1),
