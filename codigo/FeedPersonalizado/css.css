@@ -1,4 +1,20 @@
-      
+.i1 {
+    width: 1500px;
+    height: 895px;
+    }
+
+#i2 {
+    width: 500px;
+    height: 395px;
+    }
+        
+#i3 {
+    width: 790px;
+    height: 295px;
+    }
+
+
+        
     .l1 {
             margin: auto;
             text-align: center;
@@ -19,4 +35,4 @@
             border-color: red;
             padding: 10px;
             margin: 10px;
-    }
+        }
