@@ -33,8 +33,9 @@
 </head>
 
 <body>
-    <div class="l1"><h1>Lista de postagem</h1></div>
 
+    <div class="l1"><h1>Lista de postagem</h1></div>
+    
     <div class="postagens">
         <?php
         require_once "conexao.php";
