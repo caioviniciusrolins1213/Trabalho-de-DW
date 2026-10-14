@@ -40,9 +40,15 @@ $idusuario =  $_SESSION['idusuario'];
             $nome_usuario = $postagem['nome'];
             $username = $postagem['username'];
             $foto_usuario = $postagem['foto'];
+            $fotopadrao = "imagem/fotopadrao.png";
+            if ($foto_usuario == NULL) {
+            $foto_para_exibir = $fotopadrao;
+            } else {
+                $foto_para_exibir = "imagem/$foto_usuario";
+            }
 
             echo "<div class='postagem'>";
-            echo "<img src='imagem/$foto_usuario' class='foto_perfil'>";
+            echo "<img src='$foto_para_exibir' class='foto_perfil'>"; 
             echo "$nome_usuario ($username)";
             echo "<br>";
             echo "<br>";
