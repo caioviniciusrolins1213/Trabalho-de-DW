@@ -42,7 +42,7 @@ $idusuario =  $_SESSION['idusuario'];
             $foto_usuario = $postagem['foto'];
 
             echo "<div class='postagem'>";
-            echo "<img src='fotos_usuario/$foto_usuario'>";
+            echo "<img src='imagem/$foto_usuario' class='foto_perfil'>";
             echo "$nome_usuario ($username)";
             echo "<br>";
             echo "<br>";
@@ -69,7 +69,7 @@ $idusuario =  $_SESSION['idusuario'];
                     $comentario_foto_usuario = $comentario['foto'];
 
                     echo "<br>";
-                    echo "<img src='fotos_usuario/$comentario_foto_usuario'>";
+                    echo "<img src='imagem/$comentario_foto_usuario' class='foto_perfil'>";
                     echo "$comentario_nome_usuario ($comentario_username_usuario)";
                     echo $comentario_texto;
                 }

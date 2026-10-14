@@ -1,5 +1,3 @@
-//insert de usuarios
-
 INSERT INTO usuario (username, nome, email, senha, foto)  VALUES
 ('joao.silva', 'João Silva', 'joao.silva@email.com', 'senha123', 'joao.jpg'),
 ('maria.santos', 'Maria Santos', 'maria.santos@email.com', 'senha456', 'maria.jpg'),
@@ -18,7 +16,7 @@ INSERT INTO usuario (username, nome, email, senha, foto)  VALUES
 ('thiago.ribeiro', 'Thiago Ribeiro', 'thiago.ribeiro@email.com', 'thiago123', 'thiago.jpg');
 
 
-//inser de postagem
+
 
 INSERT INTO postagem (texto, idusuario) VALUES
 ('Hoje foi um dia incrível! Aprendi muitas coisas novas.', 7),
@@ -51,8 +49,6 @@ INSERT INTO postagem (texto, idusuario) VALUES
 ('Hoje estou muito motivado para continuar estudando.', 10),
 ('Compartilhando mais uma conquista com vocês!', 2),
 ('Finalizando o dia com sensação de dever cumprido.', 13);
-
-//inserts dos comentarios 
 
 INSERT INTO comentario (idusuario, idpostagem, texto) VALUES
 (7, 12, 'Muito interessante essa postagem!'),
