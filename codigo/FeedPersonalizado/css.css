@@ -68,3 +68,10 @@ vertical-align: middle;
             color: gray;
             font-size: 12px;
     }
+
+    .postagem > div {
+        background-color: #c3c5c5;
+        border: none;
+        border-radius: 12px;
+        line-height: 1.8;
+    }
