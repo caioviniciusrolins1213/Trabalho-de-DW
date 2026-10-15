@@ -1,6 +1,8 @@
  .foto_perfil{
     width: 25px;
     height: 17.5px;
+    margin-right: 10px;
+vertical-align: middle;
  }
  
  body{
@@ -53,4 +55,16 @@
             margin: 20px;
             background-color: #ffffff;
             border-radius: 30px;
-        }
+            margin-top: 15px;
+            margin-bottom: 15px;
+    }
+    
+    .texto_postagem {
+            margin-top: 20px;
+            margin-bottom: 20px;
+    }
+
+    .data_postagem {
+            color: gray;
+            font-size: 12px;
+    }

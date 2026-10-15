@@ -50,11 +50,9 @@ $idusuario =  $_SESSION['idusuario'];
             echo "<div class='postagem'>";
             echo "<img src='$foto_para_exibir' class='foto_perfil'>"; 
             echo "$nome_usuario ($username)";
-            echo "<br>";
-            echo "<br>";
-            echo $texto;
-            echo "<br>";
-            echo $data_hora;
+            echo "<p class='texto_postagem'>$texto</p>";
+            echo "<p class='data_postagem'>$data_hora</p>";
+            
 
             echo "<div>";
             $sql2 = "SELECT comentario.idcomentario, comentario.idusuario, comentario.texto, usuario.username, usuario.nome, usuario.foto
