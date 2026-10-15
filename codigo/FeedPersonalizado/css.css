@@ -2,7 +2,8 @@
     width: 25px;
     height: 17.5px;
     margin-right: 10px;
-vertical-align: middle;
+    border-radius: 50%;
+    vertical-align: middle;
  }
  
  body{
@@ -57,6 +58,8 @@ vertical-align: middle;
             border-radius: 30px;
             margin-top: 15px;
             margin-bottom: 15px;
+           
+
     }
     
     .texto_postagem {
@@ -65,13 +68,43 @@ vertical-align: middle;
     }
 
     .data_postagem {
-            color: gray;
-            font-size: 12px;
+            color: rgb(131, 86, 4);
+            font-size: 15px;
     }
 
-    .postagem > div {
-        background-color: #c3c5c5;
-        border: none;
-        border-radius: 12px;
-        line-height: 1.8;
-    }
+.comentario {
+    border: none;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: transparent;
+}
+
+.cabecalho_comentario {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color:rgb(1, 1, 75);
+
+
+}
+
+.cabecalho_comentario .foto_perfil {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.texto_comentario {
+    margin: 0;
+    padding-left: 40px;
+    border: none;
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+}
+
+
+   

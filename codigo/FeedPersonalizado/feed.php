@@ -72,10 +72,16 @@ $idusuario =  $_SESSION['idusuario'];
                     $comentario_username_usuario = $comentario['username'];
                     $comentario_foto_usuario = $comentario['foto'];
 
-                    echo "<br>";
-                    echo "<img src='imagem/$comentario_foto_usuario' class='foto_perfil'>";
-                    echo "$comentario_nome_usuario ($comentario_username_usuario)";
-                    echo $comentario_texto;
+                    echo "<div class='comentario'>";
+
+echo "<div class='cabecalho_comentario'>";
+echo "<img src='imagem/$comentario_foto_usuario' class='foto_perfil'>";
+echo "<span>$comentario_nome_usuario (@$comentario_username_usuario)</span>";
+echo "</div>";
+
+echo "<p class='texto_comentario'>$comentario_texto</p>";
+
+echo "</div>";
                 }
             }
         ?>
